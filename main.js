@@ -5,5 +5,5 @@ let obj = {obst: ['apple','banana','kiwi'], fleisch: ['schwein', 'kuh']};
 
 name = 'Gabriella';
 
-console.log(arrayXy[0]);
+console.log(arrayXy[0][]);
 console.log(obj.obst);
